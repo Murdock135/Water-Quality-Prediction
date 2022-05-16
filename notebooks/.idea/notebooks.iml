@@ -4,5 +4,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Water-Quality-Prediction" />
+    <orderEntry type="module" module-name="Student-Engagement_Prediction" />
   </component>
 </module>
